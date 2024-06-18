@@ -10,5 +10,4 @@
   "server": {
     "url": "https://capacitor-server-url-param.web.app?param=test"
   }
-
 }
