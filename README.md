@@ -1,0 +1,1 @@
+# capacitor-server-url-query-parameter
