@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.app",
+  "appName": "server-url-query-param",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "url": "https://localhost/index.html"
+  }
+
+}
